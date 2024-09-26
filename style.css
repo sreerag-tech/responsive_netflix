@@ -26,7 +26,7 @@
   color: yellowgreen;
 }
 .total{
-  background-image: url(main/images/head.png);
+  background-image: url(./images/head.png);
 }
 .nav-item1 {
   border: 2px solid white;
